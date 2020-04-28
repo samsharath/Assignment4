@@ -9,6 +9,7 @@ h1 {
   margin-right: 0;
   font-weight: bold;
   text-align:center;
+  padding: 20px
 }
 h2 { 
 	color: green;
@@ -19,11 +20,19 @@ h2 {
   margin-left: 0;
   margin-right: 0;
   font-weight: bold;
+  padding: 20px
 }
 
 img {
-  width: 35%;
-  height: 35%;
+	margin-top: 25px;
+	margin-right: 10px;
+	margin-bottom: 25px;
+	margin-left:10px;
+    width: 35%;
+    height: 35%;
+border: thin silver solid;
+  margin: 0.5em;
+  padding: 0.5em;
 
 }
 nav{
@@ -32,4 +41,7 @@ nav{
 }
 footer {
   display: block;
+  }
+  #caption-01{
+		color:green;
   }
