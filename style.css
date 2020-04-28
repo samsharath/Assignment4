@@ -1,0 +1,35 @@
+
+h1 {
+	color: black;
+  display: block;
+  font-size: 2em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+  text-align:center;
+}
+h2 { 
+	color: green;
+  display: block;
+  font-size: 1.5em;
+  margin-top: 0.83em;
+  margin-bottom: 0.83em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+}
+
+img {
+  width: 35%;
+  height: 35%;
+
+}
+nav{
+	color: blue;
+	font-size: 10;
+}
+footer {
+  display: block;
+  }
